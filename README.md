@@ -15,13 +15,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Esprorepo/EsproMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SweetToxicMusic/SWEETTOEXIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [🝐꯭𐏓꯭꯭ ⃪⧉⃞🅴𝐒𝙿ⓇᎧ🦋⃝🅼𝐔𝚂Ⓘ𝙲ᥣ᭄𝄄꯭꯭꯭⟭♥️─⃛͢•༎𓆪](https://github.com/Esprorepo/EsproMusicBot/blob/main/sample.env)
+- Get your [🝐꯭𐏓꯭꯭ ⃪⧉⃞🅴𝐒𝙿ⓇᎧ🦋⃝🅼𝐔𝚂Ⓘ𝙲ᥣ᭄𝄄꯭꯭꯭⟭♥️─⃛͢•༎𓆪](https://github.com/SweetToxicMusic/SWEETTOEXIC/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
